@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Repository.
 <br>
-Author- shraddha khapra
+Author- shraddha (Apna Clg)
